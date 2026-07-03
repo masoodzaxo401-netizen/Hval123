@@ -1,0 +1,27 @@
+{
+  "name": "ئامادەییا هەڤال يا كوران — School Portal",
+  "short_name": "Hval School",
+  "description": "School management system: grades, announcements, teachers and secure student portal.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1e3a8a",
+  "theme_color": "#1e3a8a",
+  "lang": "en",
+  "dir": "auto",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

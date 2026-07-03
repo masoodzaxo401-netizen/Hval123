@@ -1,0 +1,13 @@
+{
+  "name": "hval-school-management",
+  "version": "1.0.0",
+  "private": true,
+  "description": "School Management PWA for ئامادەییا هەڤال يا كوران",
+  "scripts": {
+    "dev": "serve -l 3000 --no-clipboard --no-request-logging .",
+    "start": "serve -l 3000 --no-clipboard ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}
